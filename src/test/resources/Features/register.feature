@@ -2,7 +2,7 @@
 Feature: Register
   I want to use this template for my feature file
 
-  @register
+  @october
   Scenario: SuccessfulRegister
     Given User is on Login Page
     And Click Register
